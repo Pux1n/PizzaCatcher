@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 6cee4b66af1df1e45a80e6caf1a446d9
+  - enabled: 1
+    path: Assets/Scenes/catchGame.unity
+    guid: 70208cebb1171b54daa6b7fcfc90d605
+  - enabled: 1
+    path: Assets/Scenes/shop.unity
+    guid: f2e802e2c3d69f84b990c4d358d0cc7a
+  - enabled: 1
+    path: Assets/Scenes/coupons.unity
+    guid: c3df12d4d8331a742ad9848f197909c7
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 28408d737163adb4db6f2bee5ed5e0cb, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: b545d7fd11fab8f4d8008c741aaa7121, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d41081905c478ea43bf819f3edec6fcb, type: 2}
+  m_UseUCBPForAssetBundles: 0

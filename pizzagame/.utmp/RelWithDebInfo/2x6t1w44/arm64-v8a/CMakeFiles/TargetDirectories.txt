@@ -1,0 +1,5 @@
+C:/pizzagame/.utmp/RelWithDebInfo/2x6t1w44/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/pizzagame/.utmp/RelWithDebInfo/2x6t1w44/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/pizzagame/.utmp/RelWithDebInfo/2x6t1w44/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/pizzagame/.utmp/RelWithDebInfo/2x6t1w44/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/pizzagame/.utmp/RelWithDebInfo/2x6t1w44/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
